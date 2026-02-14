@@ -1,4 +1,4 @@
-FinalSprint0 is the Netbeans project of the finished sprint 0.\
+FinalSprint0 is the Netbeans project and java source code of the finished sprint 0.\
 The source files of interest:\
 Program that will be tested:\
 CS449Projec-t/FinalSprint0/src/main/java/com/mycompany/finalsprint0/Minus.java\
