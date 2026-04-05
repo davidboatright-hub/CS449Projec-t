@@ -7,4 +7,4 @@ CS449Projec-t/FinalSprint0/src/main/java/com/mycompany/finalsprint0/TestGui.java
 Tests:\
 CS449Projec-t/FinalSprint0/src/test/java/MinusTest.java
 
-The folder Sprint2 contains all source code in the subfolder Sprint2, as well as the documents for sprint 2.
+The source code for each sprint is contained in the appropriately named folders. The reports and AI use documentation are stored in the main folder and should also have appropriate names.
