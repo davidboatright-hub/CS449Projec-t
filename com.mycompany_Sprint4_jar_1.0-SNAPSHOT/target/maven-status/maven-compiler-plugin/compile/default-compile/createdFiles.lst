@@ -1,0 +1,9 @@
+com\mycompany\sprint3\AutomatedGame.class
+com\mycompany\sprint3\Board.class
+com\mycompany\sprint3\Move.class
+com\mycompany\sprint3\PegSolitaireGUI.class
+com\mycompany\sprint3\ReplayGame.class
+com\mycompany\sprint3\Game.class
+com\mycompany\sprint3\ManualGame.class
+com\mycompany\sprint3\MoveIO.class
+com\mycompany\sprint3\RandomizeMove.class
